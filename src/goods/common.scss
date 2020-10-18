@@ -1,0 +1,47 @@
+@charset "utf-8";
+body,
+p,h1,h2,h3,h4,h5,h6,ul,li,img,input,dl,dd,dt,a {
+	margin: 0;
+	padding: 0;
+}
+
+ul,
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.fl {
+	float: left；
+}
+
+.fr {
+	float: right;
+}
+
+.clr:after {
+	content: " ";
+	display: block;
+	clear: both;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+}
+
+
+/*兼容IE浏览器*/
+
+.clr {
+	zoom: 1;
+}
+
+img {
+	vertical-align: middle;
+	border: none;
+}
+
+

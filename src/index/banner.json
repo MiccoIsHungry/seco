@@ -1,0 +1,26 @@
+[
+
+    [
+        {"goods":{"img":"../images/goods1.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥680"]}},
+        {"goods":{"img":"../images/goods2.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年秋冬","￥4330"]}},
+        {"goods":{"img":"../images/goods3.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥6330"]}},
+        {"goods":{"img":"../images/goods4.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年秋冬","￥980"]}},
+        {"goods":{"img":"../images/goods5.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥2080"]}}
+    ],
+    [
+        {"goods":{"img":"../images/goods5.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥680"]}},
+        {"goods":{"img":"../images/goods4.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年秋冬","￥4330"]}},
+        {"goods":{"img":"../images/goods3.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥6330"]}},
+        {"goods":{"img":"../images/goods2.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年秋冬","￥980"]}},
+        {"goods":{"img":"../images/goods1.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥2080"]}}
+    ],
+    
+    [
+        {"goods":{"img":"../images/goods1.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥680"]}},
+        {"goods":{"img":"../images/goods2.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年秋冬","￥4330"]}},
+        {"goods":{"img":"../images/goods3.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥6330"]}},
+        {"goods":{"img":"../images/goods4.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年秋冬","￥980"]}},
+        {"goods":{"img":"../images/goods5.jpg","data":["ARMANI EXCHANGE/ARMANI EXCHANGE","ARMANI EXCHANGE 白色 男士背部数字图案印花短袖T恤 3HZTLA-ZJH4Z-1100 2020年春夏","￥2080"]}}
+    ]
+   
+]

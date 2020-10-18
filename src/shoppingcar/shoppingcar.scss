@@ -1,0 +1,124 @@
+header{
+    background-color: #323232;
+    width: 100%;
+}
+.header-box{
+    width: 1200px;
+    margin: auto;
+}
+.main{
+    background-color: #F6F6F6;
+    width: 100%;
+    padding: 40px 0;
+}
+.main-box{
+    width: 1200px;
+    margin: auto;
+}
+.mb-title{
+    font-size: 12px;
+    color: gray;
+    margin-left: 80px;
+}
+.mb-title>a{
+    color: red;
+    margin: 0 10px;
+}
+
+.carTable{
+    border: 2px solid white;
+    width: 1200px;
+}
+.carTable>thead{
+    background-color: #dddddd;
+    font-weight: normal;
+    font-size: 12px;
+    color: gray;
+}
+.carTable>thead>tr{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.goods{
+    background-color: white;
+}
+.carTable>thead>tr>th{
+    padding: 15px 10px;
+}
+.countNum{
+    display: flex;
+    align-items: center;
+}
+.cInput>input{
+    width: 40px;
+}
+.cPlus,.cMinus{
+    font-size: 14px;
+    padding: 1px 4px;
+    cursor: pointer;
+    border: 1px solid #dddddd;
+}
+.cPlus{
+    border-right: none;
+}
+.cMinus{
+    border-left: none;
+}
+.Num{
+    text-align: center;
+    height: 20px;
+    border: 1px solid #dddddd;
+}
+.namePro{
+    width: 200px;
+}
+.namePro>a{
+    white-space: wrap;
+}
+// .goods>td{
+//     margin-right: 50px;
+// }
+.cartNames{
+    margin-left: 0;
+}
+//@at-root
+.cartPrice{
+    width: 1116px;
+    margin: auto;
+    background-color: white;
+    margin-top: 20px;
+    padding: 0 42px;
+    font-size: 12px;
+    color: gray;
+}
+.totalPriceBottom>strong{
+    color: red;
+    font-size: 30px;
+}
+.cartPrice {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
+.anoright{
+    width: 300px;
+    align-self: flex-end;
+}
+.clearfix>a:first-of-type{
+    padding: 6px 16px;
+    border: 1px solid red;
+}
+.clearfix>a:last-of-type{
+    padding: 16px 30px;
+    background-color: #dddddd;
+    color: gray;
+    margin-right: 120px;
+}
+.clearfix{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
